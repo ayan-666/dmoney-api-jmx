@@ -5,7 +5,7 @@
 - Import the jmx file in JMeter
 - Then Start the jmx file in JMeter
 
-## How to generate report 
+## How to generate report from CLI
 - Open terminal in bin directory
 - Give this command:  jmeter -n -t yourFile.jmx -l yourFile.csv -e -o Reports (For Windows)
 0r,
