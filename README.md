@@ -11,6 +11,9 @@
 0r,
 - Give this command:  sh jmeter.sh -n -t yourFile.jmx -l yourFile.csv -e -o Reports (For MacOS)
 
+##Technology
+- JMeter
+
 ## Report Screenshot
 
 <img width="1469" alt="Screenshot 2023-01-27 at 10 30 38 PM" src="https://user-images.githubusercontent.com/67514655/215144575-277c3870-782c-4509-b149-a1bc57364ed5.png">
