@@ -7,9 +7,9 @@
 
 ## How to generate report from CLI
 - Open terminal in bin directory
-- Give this command:  jmeter -n -t yourFile.jmx -l yourFile.csv -e -o Reports (For Windows)
+- Give this command:  jmeter -n -t Dmoney_API.jmx -l Dmoney_API.csv -e -o Reports (For Windows)
 0r,
-- Give this command:  sh jmeter.sh -n -t yourFile.jmx -l yourFile.csv -e -o Reports (For MacOS)
+- Give this command:  sh jmeter.sh -n -t Dmoney_API.jmx -l Dmoney_API.csv -e -o Reports (For MacOS)
 
 ## Technology
 - JMeter
